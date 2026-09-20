@@ -1,12 +1,12 @@
 {
-  "app_version": "0.1.1",
-  "version_code": 2,
+  "app_version": "0.1.2",
+  "version_code": 3,
   "minimum_version_code": 2,
-  "update_type": "content",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.1.1/MindMatch-0.1.1.apk",
-  "apk_sha256": "0627E5920B925C6311319593A571B235E59559F2D407890BCEA392E199493DD6",
+  "update_type": "app",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.1.2/MindMatch-0.1.2.apk",
+  "apk_sha256": "EB108419F88B1533EC55193526F77944AF42C195C385D6FE8C648984B3C32516",
   "content_version": 2,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v2.json",
   "content_sha256": "2CCD62E067FA5502D94FA333E2AC987AEF2583385646EC150CFF6A75D1B8D143",
-  "release_notes": "First permanently signed phone-test release; small question-content update adds one sample game-night question."
+  "release_notes": "No-scroll setup and update screens, a warmer dusty-blue palette, and a simpler one-action update flow."
 }
