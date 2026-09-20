@@ -1,12 +1,12 @@
 {
-  "app_version": "0.1.2",
-  "version_code": 3,
+  "app_version": "0.2.0",
+  "version_code": 4,
   "minimum_version_code": 2,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.1.2/MindMatch-0.1.2.apk",
-  "apk_sha256": "7401D20A0648044661140DC8D0E28129CAE102AAE365F916217786A99485BB33",
-  "content_version": 2,
-  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v2.json",
-  "content_sha256": "2CCD62E067FA5502D94FA333E2AC987AEF2583385646EC150CFF6A75D1B8D143",
-  "release_notes": "No-scroll setup and update screens, a warmer dusty-blue palette, and a simpler one-action update flow."
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.0/MindMatch-0.2.0.apk",
+  "apk_sha256": "0D384E9BFA2820ABD7012BA4C05F497CBEC8FC79BEFA9F63E10CBB25C4467EB3",
+  "content_version": 3,
+  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v3.json",
+  "content_sha256": "F30D9F66C6510D8B2B4C22273DE3269DB7718B5C1FA6D438A434061BA417A930",
+  "release_notes": "First complete two-player internet match: reusable rooms, alternating Spotlight turns, prediction and confidence scoring, reveals, balanced sudden death, reconnect, relationship history, expanded questions, and Test Mode bots."
 }
