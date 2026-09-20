@@ -1,0 +1,12 @@
+{
+  "app_version": "0.1.1",
+  "version_code": 2,
+  "minimum_version_code": 2,
+  "update_type": "app",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.1.1/MindMatch-0.1.1.apk",
+  "apk_sha256": "D49BAB0F09C7EA220DAC92DF44F23E167B41726DEFE932FECB857EAA818CF194",
+  "content_version": 1,
+  "content_url": "",
+  "content_sha256": "",
+  "release_notes": "First permanently signed Mind Match phone-test release. Uninstall the old debug-signed build before installing."
+}

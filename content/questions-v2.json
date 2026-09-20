@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "content_version": 2,
+  "packs": ["Everyday", "Favorites", "Would You Rather", "Impossible Choices", "Money", "Dream Life", "Survival", "Personality", "Friends", "Family", "Geek", "Wildcard"],
+  "questions": [
+    {"id":"everyday_001","text":"Which part of a slow Sunday sounds best?","answer_type":"multiple_choice","choices":["A long breakfast","A little adventure","A cozy movie","Making something"],"pack":"Everyday","difficulty":"easy","tags":["EASY"],"content_rating":"PG"},
+    {"id":"favorites_001","text":"Pick a treat to share with the table.","answer_type":"multiple_choice","choices":["Warm cookies","Fresh fruit","Cheese board","Ice cream"],"pack":"Favorites","difficulty":"easy","tags":["FOOD"],"content_rating":"PG"},
+    {"id":"wyr_001","text":"Would you rather know every language or play every instrument?","answer_type":"ab","choices":["Every language","Every instrument"],"pack":"Would You Rather","difficulty":"easy","tags":["EASY"],"content_rating":"PG"},
+    {"id":"impossible_001","text":"Choose one: never lose your keys or always find a parking spot.","answer_type":"ab","choices":["Never lose keys","Always find parking"],"pack":"Impossible Choices","difficulty":"easy","tags":["EASY"],"content_rating":"PG"},
+    {"id":"money_001","text":"What would you do first with an unexpected bonus?","answer_type":"multiple_choice","choices":["Save it","Share it","Travel","Treat myself"],"pack":"Money","difficulty":"medium","tags":["MONEY"],"content_rating":"PG"},
+    {"id":"dream_001","text":"Where would you spend a month with no obligations?","answer_type":"multiple_choice","choices":["By the sea","In the mountains","A lively city","At home"],"pack":"Dream Life","difficulty":"easy","tags":["PERSONAL"],"content_rating":"PG"},
+    {"id":"survival_001","text":"Which skill would you bring to a stranded group?","answer_type":"multiple_choice","choices":["Navigation","Cooking","Building","Keeping spirits up"],"pack":"Survival","difficulty":"medium","tags":["SURVIVAL"],"content_rating":"PG"},
+    {"id":"personality_001","text":"How do you usually recharge after a busy week?","answer_type":"multiple_choice","choices":["Alone time","Close friends","Outdoors","A new experience"],"pack":"Personality","difficulty":"easy","tags":["PERSONAL"],"content_rating":"PG"},
+    {"id":"friends_001","text":"What makes you feel most appreciated by a friend?","answer_type":"multiple_choice","choices":["A thoughtful message","Showing up","Making me laugh","Remembering details"],"pack":"Friends","difficulty":"medium","tags":["RELATIONSHIP"],"content_rating":"PG-13"},
+    {"id":"family_001","text":"Which family tradition would you keep forever?","answer_type":"player_choice","choices":[],"pack":"Family","difficulty":"medium","tags":["PERSONAL"],"content_rating":"PG"},
+    {"id":"geek_001","text":"Pick a fictional world to explore for a day.","answer_type":"player_choice","choices":[],"pack":"Geek","difficulty":"easy","tags":["GEEK"],"content_rating":"PG"},
+    {"id":"wildcard_001","text":"Rank these for a perfect evening.","answer_type":"ranking","choices":["Good food","Good music","Good company"],"pack":"Wildcard","difficulty":"medium","tags":["PERSONAL"],"content_rating":"PG"},
+    {"id":"everyday_002","text":"Which cozy game-night snack would you pick first?","answer_type":"multiple_choice","choices":["Popcorn","Chocolate","Fruit","Pretzels"],"pack":"Everyday","difficulty":"easy","tags":["EASY","FOOD"],"content_rating":"PG"}
+  ]
+}
