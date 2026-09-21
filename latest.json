@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.5",
-  "version_code": 9,
+  "app_version": "0.2.6",
+  "version_code": 10,
   "minimum_version_code": 2,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.5/MindMatch-0.2.5.apk",
-  "apk_sha256": "D630723904C934B1CA44CB1D229DB7E7C1227DEF4FC3A2E8E1B452FD6C500096",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.6/MindMatch-0.2.6.apk",
+  "apk_sha256": "8B681C465C6EC993F9B8955955360B1A6B21994162F7EED2D14E9E567045BCA9",
   "content_version": 3,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v3.json",
   "content_sha256": "F30D9F66C6510D8B2B4C22273DE3269DB7718B5C1FA6D438A434061BA417A930",
-  "release_notes": "Emergency menu-input hotfix: startup update checks no longer compete with menu interaction, and invisible input shields are released safely. Content v3 is unchanged."
+  "release_notes": "A calm, consistent Mind Match header and wordmark polish across menus, setup, and play. Content v3 is unchanged."
 }
