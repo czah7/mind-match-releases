@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.2",
-  "version_code": 6,
+  "app_version": "0.2.3",
+  "version_code": 7,
   "minimum_version_code": 2,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.2/MindMatch-0.2.2.apk",
-  "apk_sha256": "6593BD6DBB74A6BCFA4E35D06459CFF6E95FA7BF1B7B198D48E08AB5E759E51F",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.3/MindMatch-0.2.3.apk",
+  "apk_sha256": "5BA904C8A74C27B96F53B0C03740748EAABE364E167291B149D1927AE1D15BA1",
   "content_version": 3,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v3.json",
   "content_sha256": "F30D9F66C6510D8B2B4C22273DE3269DB7718B5C1FA6D438A434061BA417A930",
-  "release_notes": "Host-controlled End Match clears only the live match, so the reusable room, players, and relationship history stay intact. Cozy Social visuals, compact active-match controls, and content v3 are preserved."
+  "release_notes": "A complete Cute + Cozy + Social visual refresh adds illustrated tabletop atmosphere, tactile choices, themed round moments, warmer reveals and results, and gentle motion while preserving multiplayer, no-scroll play, and content v3."
 }
