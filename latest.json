@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.4",
-  "version_code": 8,
+  "app_version": "0.2.5",
+  "version_code": 9,
   "minimum_version_code": 2,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.4/MindMatch-0.2.4.apk",
-  "apk_sha256": "CB18FED5DEE8BA85DEC7665A738D1CE80755FC809377E94844C0E31B0887FBAC",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.5/MindMatch-0.2.5.apk",
+  "apk_sha256": "D630723904C934B1CA44CB1D229DB7E7C1227DEF4FC3A2E8E1B452FD6C500096",
   "content_version": 3,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v3.json",
   "content_sha256": "F30D9F66C6510D8B2B4C22273DE3269DB7718B5C1FA6D438A434061BA417A930",
-  "release_notes": "Emergency stability hotfix: transitions now keep game and reconnect screens visible and touchable even if an animation is interrupted. Content v3 is unchanged."
+  "release_notes": "Emergency menu-input hotfix: startup update checks no longer compete with menu interaction, and invisible input shields are released safely. Content v3 is unchanged."
 }
