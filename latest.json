@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.12",
-  "version_code": 16,
+  "app_version": "0.2.13",
+  "version_code": 17,
   "minimum_version_code": 2,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.12/MindMatch-0.2.12.apk",
-  "apk_sha256": "5B235892147A03C9B1263FA4DBDA34947ED1BCD3E54DE2411C719D4735B5EA3C",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.13/MindMatch-0.2.13.apk",
+  "apk_sha256": "487F115D5F8896E169AAA7CD61620F6401652C97283BF58910A97CE4A2597177",
   "content_version": 3,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v3.json",
   "content_sha256": "F30D9F66C6510D8B2B4C22273DE3269DB7718B5C1FA6D438A434061BA417A930",
-  "release_notes": "Testing UX patch: reliable short haptic feedback with a Settings toggle. Confidence remains optional; no selection means NORMAL. Content v3 unchanged. Physical Android testing is pending human validation."
+  "release_notes": "Testing UX patch: Android button haptics now include the required VIBRATE permission, and Settings has clear OFF / ON controls. Content v3 unchanged. Physical Android testing is pending human validation."
 }
