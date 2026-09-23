@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.13",
-  "version_code": 17,
-  "minimum_version_code": 2,
+  "app_version": "0.2.14",
+  "version_code": 18,
+  "minimum_version_code": 18,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.13/MindMatch-0.2.13.apk",
-  "apk_sha256": "487F115D5F8896E169AAA7CD61620F6401652C97283BF58910A97CE4A2597177",
-  "content_version": 3,
-  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v3.json",
-  "content_sha256": "F30D9F66C6510D8B2B4C22273DE3269DB7718B5C1FA6D438A434061BA417A930",
-  "release_notes": "Testing UX patch: Android button haptics now include the required VIBRATE permission, and Settings has clear OFF / ON controls. Content v3 unchanged. Physical Android testing is pending human validation."
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.14/MindMatch-0.2.14.apk",
+  "apk_sha256": "51431A945E159D3ABA4612CC91A5462DF81A9B479A383714F4562ED445EE5383",
+  "content_version": 4,
+  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v4.json",
+  "content_sha256": "2E812641445AD8D0CE9C183CE067ECB51B33952F35B4BBDB52B8B957AB13E4B7",
+  "release_notes": "Testing release: Question Database v4 adds 600 curated questions, 43 choice pools, and server-authoritative per-round choices. App v0.2.14 is required for v4 content. Physical Android testing is pending human validation."
 }
