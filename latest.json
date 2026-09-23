@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.10",
-  "version_code": 14,
+  "app_version": "0.2.11",
+  "version_code": 15,
   "minimum_version_code": 2,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.10/MindMatch-0.2.10.apk",
-  "apk_sha256": "19910130902028855669FA831844A8327846AC6F5C0DD82A1BB98456A1260A53",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.11/MindMatch-0.2.11.apk",
+  "apk_sha256": "3198ACC6A7A3D7ADF8545E5BDDD8A51AA0E831159D05A59BD80C663D8D673798",
   "content_version": 3,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v3.json",
   "content_sha256": "F30D9F66C6510D8B2B4C22273DE3269DB7718B5C1FA6D438A434061BA417A930",
-  "release_notes": "Testing hotfix: disable engine auto-exit on Android Back; deferred guarded navigation and local diagnostics; per-pack round eligibility, tappable Done, server validation, and idle bot cleanup. Content v3 unchanged. Physical Android testing is pending human validation."
+  "release_notes": "Testing UX patch: light haptic feedback on gameplay commit actions and optional confidence selection. No confidence means NORMAL. Content v3 unchanged. Physical Android testing is pending human validation."
 }
