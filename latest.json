@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.8",
-  "version_code": 12,
+  "app_version": "0.2.9",
+  "version_code": 13,
   "minimum_version_code": 2,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.8/MindMatch-0.2.8.apk",
-  "apk_sha256": "968DEEB4A4B8DA6481A3F821E68636AB8B85141810BDA585E98B0A0D384AD60B",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.9/MindMatch-0.2.9.apk",
+  "apk_sha256": "F73A522EFD637901B80FCB1BB34B5D46CF0D8B2A9F057C4F94ADC3ECC7A3F482",
   "content_version": 3,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v3.json",
   "content_sha256": "F30D9F66C6510D8B2B4C22273DE3269DB7718B5C1FA6D438A434061BA417A930",
-  "release_notes": "Round Builder, server-authoritative themes, safer bot cleanup, and unified Android Back behavior. Content v3 is unchanged."
+  "release_notes": "Android Back hotfix, reliable Round Builder setup, actionable live validation errors, and compact cozy setup polish. Content v3 is unchanged."
 }
