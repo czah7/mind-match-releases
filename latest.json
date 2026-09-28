@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.15",
-  "version_code": 19,
+  "app_version": "0.2.16",
+  "version_code": 20,
   "minimum_version_code": 18,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.15/MindMatch-0.2.15.apk",
-  "apk_sha256": "F7A0090951D5F5B1461B4CCA3532C173358D851F170C6DB32505D3CDE49A1250",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.16/MindMatch-0.2.16.apk",
+  "apk_sha256": "2A5CFF3D4462B2D0FDF6AD56E93C86C2C9CA73E288D37E8C3947C333CDC8BE65",
   "content_version": 4,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v4.json",
   "content_sha256": "2E812641445AD8D0CE9C183CE067ECB51B33952F35B4BBDB52B8B957AB13E4B7",
-  "release_notes": "Testing release: simultaneous answering, custom reusable room codes, question feedback with exact choice context, and automatic background/network recovery. Content V4 is unchanged. Question reports are saved for review; personal hiding and 3+ player gameplay remain deferred. Physical Android testing is pending human validation."
+  "release_notes": "Testing hotfix: reusable codes now open fresh host-only sessions. Previous guests must join again, so stale offline players cannot block Test Mode bots. Same-session reconnect and sealed choices remain preserved. Content V4 is unchanged. Physical Android testing is pending human validation."
 }
