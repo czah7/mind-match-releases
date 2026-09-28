@@ -1,12 +1,12 @@
 {
-  "app_version": "0.3.0",
-  "version_code": 21,
-  "minimum_version_code": 21,
+  "app_version": "0.3.1",
+  "version_code": 22,
+  "minimum_version_code": 22,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.0/MindMatch-0.3.0.apk",
-  "apk_sha256": "097D3D74CC72441F55EBEB174EC2ACFA5382C201E48047852367FCADCCF0C3AE",
-  "content_version": 5,
-  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v5.json",
-  "content_sha256": "5904A974AB456DFB9B3AB1F3C28543ACB61A39467219B0834D3A4EE3BCA8E7FD",
-  "release_notes": "Testing release: 2–8 players, simultaneous sealed predictions, up to 7 test bots, directional history and bounded tiebreaks. Content V5 has 700 four-choice questions across 14 packs, including Heroes & Powers and Pop Culture. Report this Question keeps exact review context. Away seats recover for up to five minutes. Physical Android validation is pending human testing."
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.1/MindMatch-0.3.1.apk",
+  "apk_sha256": "43F2DE712C2B72DDEEDEBEC67798F3299153D0CDF776981E5092B039E896334A",
+  "content_version": 6,
+  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v6.json",
+  "content_sha256": "B3C3CB21EDB1A1EF539E1619040A2B4F781EEF19322A9DB4BB5EC3A31046C900",
+  "release_notes": "Testing release: compact grouped reveal results fit the available screen, with clearer Correct/Missed and optional confidence details. Redundant question metadata removed. Content V6 preserves 700 questions across 14 packs, with 336 rewritten/replaced prompts and 28 revised choice pools after review of all questions and reported contexts. Multiplayer remains 2–8 players. Physical Android and subjective content review are pending human testing."
 }
