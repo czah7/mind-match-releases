@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.16",
-  "version_code": 20,
-  "minimum_version_code": 18,
+  "app_version": "0.3.0",
+  "version_code": 21,
+  "minimum_version_code": 21,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.16/MindMatch-0.2.16.apk",
-  "apk_sha256": "2A5CFF3D4462B2D0FDF6AD56E93C86C2C9CA73E288D37E8C3947C333CDC8BE65",
-  "content_version": 4,
-  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v4.json",
-  "content_sha256": "2E812641445AD8D0CE9C183CE067ECB51B33952F35B4BBDB52B8B957AB13E4B7",
-  "release_notes": "Testing hotfix: reusable codes now open fresh host-only sessions. Previous guests must join again, so stale offline players cannot block Test Mode bots. Same-session reconnect and sealed choices remain preserved. Content V4 is unchanged. Physical Android testing is pending human validation."
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.0/MindMatch-0.3.0.apk",
+  "apk_sha256": "097D3D74CC72441F55EBEB174EC2ACFA5382C201E48047852367FCADCCF0C3AE",
+  "content_version": 5,
+  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v5.json",
+  "content_sha256": "5904A974AB456DFB9B3AB1F3C28543ACB61A39467219B0834D3A4EE3BCA8E7FD",
+  "release_notes": "Testing release: 2–8 players, simultaneous sealed predictions, up to 7 test bots, directional history and bounded tiebreaks. Content V5 has 700 four-choice questions across 14 packs, including Heroes & Powers and Pop Culture. Report this Question keeps exact review context. Away seats recover for up to five minutes. Physical Android validation is pending human testing."
 }
