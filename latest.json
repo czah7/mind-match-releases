@@ -1,12 +1,12 @@
 {
-  "app_version": "0.2.14",
-  "version_code": 18,
+  "app_version": "0.2.15",
+  "version_code": 19,
   "minimum_version_code": 18,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.14/MindMatch-0.2.14.apk",
-  "apk_sha256": "51431A945E159D3ABA4612CC91A5462DF81A9B479A383714F4562ED445EE5383",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.2.15/MindMatch-0.2.15.apk",
+  "apk_sha256": "F7A0090951D5F5B1461B4CCA3532C173358D851F170C6DB32505D3CDE49A1250",
   "content_version": 4,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v4.json",
   "content_sha256": "2E812641445AD8D0CE9C183CE067ECB51B33952F35B4BBDB52B8B957AB13E4B7",
-  "release_notes": "Testing release: Question Database v4 adds 600 curated questions, 43 choice pools, and server-authoritative per-round choices. App v0.2.14 is required for v4 content. Physical Android testing is pending human validation."
+  "release_notes": "Testing release: simultaneous answering, custom reusable room codes, question feedback with exact choice context, and automatic background/network recovery. Content V4 is unchanged. Question reports are saved for review; personal hiding and 3+ player gameplay remain deferred. Physical Android testing is pending human validation."
 }
