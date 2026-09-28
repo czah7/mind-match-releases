@@ -1,12 +1,12 @@
 {
-  "app_version": "0.3.3",
-  "version_code": 24,
+  "app_version": "0.3.4",
+  "version_code": 25,
   "minimum_version_code": 23,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.3/MindMatch-0.3.3.apk",
-  "apk_sha256": "CFFAE785F6B2CB6A270C9EC8FDC4FD10971609083D37D43BF659DC38071E8AF8",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.4/MindMatch-0.3.4.apk",
+  "apk_sha256": "8DB0B3FD8162CE6428891AFF730A07FDAE791AD0B21215A50210610EB22CAE59",
   "content_version": 7,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v7.json",
   "content_sha256": "CE3940DDC52433DBBAC67462227D6B769F7BA7A81C7C3C7D775D97E952BDC6BF",
-  "release_notes": "Cozy presentation polish: roomier Awards with tied names, grouped round recap, clearer CORRECT/MISSED results, natural tiebreak wording, simpler standings and tidier lobby setup summaries. Quick card entrances, subtle pulses, winner sparkles and button feedback keep controls responsive. Six-player limit, gameplay and Content V7 are unchanged. Physical Android testing remains pending human review."
+  "release_notes": "Save up to three host-owned game setups, choose persistent illustrated badge avatars, and start a hosted game immediately with the default setup. Avatars now identify players through the lobby, Spotlight, reveal, recap, standings, and awards with restrained cozy gameshow polish. Six-player limit and question Content V7 are unchanged. Physical Android testing remains pending human review."
 }
