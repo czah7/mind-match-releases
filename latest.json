@@ -1,12 +1,12 @@
 {
-  "app_version": "0.3.1",
-  "version_code": 22,
-  "minimum_version_code": 22,
+  "app_version": "0.3.2",
+  "version_code": 23,
+  "minimum_version_code": 23,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.1/MindMatch-0.3.1.apk",
-  "apk_sha256": "43F2DE712C2B72DDEEDEBEC67798F3299153D0CDF776981E5092B039E896334A",
-  "content_version": 6,
-  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v6.json",
-  "content_sha256": "B3C3CB21EDB1A1EF539E1619040A2B4F781EEF19322A9DB4BB5EC3A31046C900",
-  "release_notes": "Testing release: compact grouped reveal results fit the available screen, with clearer Correct/Missed and optional confidence details. Redundant question metadata removed. Content V6 preserves 700 questions across 14 packs, with 336 rewritten/replaced prompts and 28 revised choice pools after review of all questions and reported contexts. Multiplayer remains 2–8 players. Physical Android and subjective content review are pending human testing."
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.2/MindMatch-0.3.2.apk",
+  "apk_sha256": "33D331B6D698DA3460A996EA8D455923860D3498597DB97DB35661CBED5B2857",
+  "content_version": 7,
+  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v7.json",
+  "content_sha256": "CE3940DDC52433DBBAC67462227D6B769F7BA7A81C7C3C7D775D97E952BDC6BF",
+  "release_notes": "Testing release: new tables support 2–6 players. All 14 packs, eight setup rounds, six-player standings, round recap, history and tied award names fit without scrolling. Reveal uses available space before paging. Correct counts use natural integer wording. Content V7 keeps all 700 questions and 14 packs, with 397 light rewrites, four substantial clarifications and two pool-diversity improvements. Physical Android and subjective question review remain pending human testing."
 }
