@@ -1,12 +1,12 @@
 {
-  "app_version": "0.3.6",
-  "version_code": 27,
+  "app_version": "0.4.0",
+  "version_code": 28,
   "minimum_version_code": 23,
-  "update_type": "content",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.6/MindMatch-0.3.6.apk",
-  "apk_sha256": "5B9AAA8AA039DD267B8C49083010AD17BAFD005B08EEF6C52D3D4DE45F9A3085",
+  "update_type": "app",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.4.0/MindMatch-0.4.0.apk",
+  "apk_sha256": "F71F13CE3C49E62AFA8D11CE6F3CBD707DEA92C66C28273E77FB2C27419A9CE2",
   "content_version": 8,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v8.json",
   "content_sha256": "DBEE088B529D1259533AE4F6F0FBF795D8C1B3BC068695D99F5A6D34A93A277F",
-  "release_notes": "Content V8 refreshes Favorites and selected everyday prompts, improves choice-pool variety, and preserves the existing 0.3.6 app build."
+  "release_notes": "Version 0.4.0 adds five special round categories that mix with Classic, equal round-weight Match Score, and a private local question-review portal. Content V8 remains unchanged."
 }
