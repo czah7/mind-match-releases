@@ -1,12 +1,12 @@
 {
-  "app_version": "0.3.5",
-  "version_code": 26,
+  "app_version": "0.3.6",
+  "version_code": 27,
   "minimum_version_code": 23,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.5/MindMatch-0.3.5.apk",
-  "apk_sha256": "304674FE912A79EBD16C907EC3230CA27603DAA693582D293B19CF0AEE80E9F8",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.3.6/MindMatch-0.3.6.apk",
+  "apk_sha256": "5B9AAA8AA039DD267B8C49083010AD17BAFD005B08EEF6C52D3D4DE45F9A3085",
   "content_version": 7,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v7.json",
   "content_sha256": "CE3940DDC52433DBBAC67462227D6B769F7BA7A81C7C3C7D775D97E952BDC6BF",
-  "release_notes": "Your saved avatar and name now appear on Home and Settings and update with your profile. Update messages show the app version without internal content-version details. The question set and six-player limit are unchanged. Physical Android testing remains pending human review."
+  "release_notes": "New Stats & History gives you a compact snapshot of games, social connections, confidence, and recent matches. Home now keeps a small Your Circle summary. The question set and six-player limit are unchanged. Physical Android testing remains pending human review."
 }
