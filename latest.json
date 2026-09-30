@@ -1,12 +1,12 @@
 {
-  "app_version": "0.4.1",
-  "version_code": 29,
-  "minimum_version_code": 23,
+  "app_version": "0.4.2",
+  "version_code": 30,
+  "minimum_version_code": 30,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.4.1/MindMatch-0.4.1.apk",
-  "apk_sha256": "DAFBF2E018903C6FDDF4CC1629BB70149938699DA000D21A4DFFFEAC14055901",
-  "content_version": 8,
-  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v8.json",
-  "content_sha256": "DBEE088B529D1259533AE4F6F0FBF795D8C1B3BC068695D99F5A6D34A93A277F",
-  "release_notes": "Version 0.4.1 fixes false multiplayer update prompts during active games, preserves accepted Classic and special-round sessions, and refreshes rejected actions safely. Content V8 remains unchanged."
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.4.2/MindMatch-0.4.2.apk",
+  "apk_sha256": "65D17F8820A13762B1C1357A5A55DCCCF55C199BB5C2CB4EB087183B56EC21AA",
+  "content_version": 9,
+  "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v9.json",
+  "content_sha256": "00C1BED8D76FA08769DD5D54BAC7A2EB629B9E1237A48070E3EB4C40C9344451",
+  "release_notes": "Version 0.4.2 retires Secret Vote from new games, publishes curated V9 questions, and enables generation 10 special-round prompts with live V9/V10 multiplayer validation."
 }
