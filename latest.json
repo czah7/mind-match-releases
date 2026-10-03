@@ -1,12 +1,12 @@
 {
-  "app_version": "0.4.3",
-  "version_code": 31,
+  "app_version": "0.4.4",
+  "version_code": 32,
   "minimum_version_code": 30,
   "update_type": "app",
-  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.4.3/MindMatch-0.4.3.apk",
-  "apk_sha256": "F81CB640F187A34974FE0F517AD2DA5C92AF9F4CFECDA1F523B3FC588C99DF40",
+  "apk_url": "https://github.com/czah7/mind-match-releases/releases/download/v0.4.4/MindMatch-0.4.4.apk",
+  "apk_sha256": "B57994FC1F395846ACC23EACAB69DF5E0FE29D75752C4D19D1C20BE854A3C8D4",
   "content_version": 9,
   "content_url": "https://raw.githubusercontent.com/czah7/mind-match-releases/refs/heads/main/content/questions-v9.json",
   "content_sha256": "00C1BED8D76FA08769DD5D54BAC7A2EB629B9E1237A48070E3EB4C40C9344451",
-  "release_notes": "Hot Seat now selects one target per configured round, supports 2–6 players, preserves target rotation and reconnect state, and uses compact multi-question reveal results. Content V9 is unchanged."
+  "release_notes": "Hot Seat is now rapid-fire at each player's own pace, with a synchronized reveal, clearer question results, and a ranked predictor payoff. Classic confidence adjustments now display the authoritative scoring effect. Content V9 is unchanged."
 }
